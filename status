@@ -1,0 +1,16 @@
+[1mdiff --git a/AgileCode.v12.suo b/AgileCode.v12.suo[m
+[1mindex 611e855..cfae4e0 100644[m
+Binary files a/AgileCode.v12.suo and b/AgileCode.v12.suo differ
+[1mdiff --git a/AgileCode/Views/Home/Index.cshtml b/AgileCode/Views/Home/Index.cshtml[m
+[1mindex 1e6c135..ad92eca 100644[m
+[1m--- a/AgileCode/Views/Home/Index.cshtml[m
+[1m+++ b/AgileCode/Views/Home/Index.cshtml[m
+[36m@@ -3,7 +3,7 @@[m
+ }[m
+ [m
+ <div class="jumbotron">[m
+[31m-    <h1>Agile Lab</h1>[m
+[32m+[m[32m    <h1>Agile Lab Testing</h1>[m
+     <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>[m
+     <p><a href="http://asp.net" class="btn btn-primary btn-large">Learn more &raquo;</a></p>[m
+ </div>[m
